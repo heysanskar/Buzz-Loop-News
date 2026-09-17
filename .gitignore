@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific files
+config.py
+*.db
+.env
+
+# Virtual environment
+venv/
+
